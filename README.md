@@ -53,10 +53,7 @@ print(X)
 ## Output:
 
 ![image](https://github.com/user-attachments/assets/8b35bad3-85ca-43b1-a9bb-0d9d50e82b42)
-```
-```
 ![image](https://github.com/user-attachments/assets/82d4bce7-ccb2-4d55-8fa0-528eb7c13015)
-```
 
 ## Result:
 Thus the program to find the LU Decomposition of a matrix is written and verified using python programming.
